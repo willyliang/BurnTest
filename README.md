@@ -1,0 +1,2 @@
+Use PYTHON to write a computer burn-in test software, and each item must be loaded to 100% usage. The burn-in items are CPU, MEMORY and SSD, and the results of each burn-in item are displayed through the window. and screenshot access
+This program first performs a burn-in test of the CPU, memory, and SSD, and then creates a window through the Tkinter library to display the test results. In the window, you can see the test results for each project and click the button to take a screenshot.
